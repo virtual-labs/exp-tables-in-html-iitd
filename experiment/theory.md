@@ -15,12 +15,12 @@ The HTML ‹table› tag is used for defining a table. The table tag contains ot
 
 <b>1.3 Attributes of ‹img› tag</b>
 
- 	Attribute		Value	  						Description
-  	align		left, right, center					Defines the Visual alignment.
-  	bgcolor		rgb(x,x,x), #xxxxxx, colorname		Sets the a background color..
-  	border		px									Specifies the border width. A value of "0" means no border.
-  	width		pixels								Specifies the width of the table.
-  	height		pixels								Specifies the height of the table.
+ 	Attribute     Value                               Description
+  	align        left, right, center                 Defines the Visual alignment.
+  	bgcolor      rgb(x,x,x), #xxxxxx, colorname      Sets the a background color..
+  	border       pixels                              Specifies the border width. A value of "0" means no border.
+  	width        pixels                              Specifies the width of the table.
+  	height       pixels                              Specifies the height of the table.
   
 
  
