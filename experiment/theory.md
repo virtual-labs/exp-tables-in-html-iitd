@@ -1,4 +1,4 @@
-###Theory<br>
+
 <b>1.1 Introduction</b>
 The HTML ‹table› tag is used for defining a table. The table tag contains other tags that define the structure of the table. In other words, An HTML table consists of the ‹table› element and one or more ‹tr›, ‹th›, and ‹td› elements.
 
