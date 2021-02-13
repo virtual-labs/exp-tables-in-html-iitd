@@ -89,7 +89,7 @@
     },
 
     {
-      question: "Is we can add width and height in ‹table› tag. State True Or False.",
+      question: "Is we can add width and height in â€¹tableâ€º tag. State True Or False.",
       answers: {
         a: "True",
         b: "False"
@@ -98,18 +98,18 @@
     },
 
     {
-      question: "Select the tags used within the ‹table› tag.",
+      question: "Select the tags used within the â€¹tableâ€º tag.",
       answers: {
-        a: "‹tr›",
-        b: "‹td›",
-        c: "‹th›",
+        a: "tr",
+        b: "td",
+        c: "th",
         d: "All of the above"      
       },
       correctAnswer: "a"
     },
 	
 	{
-      question: "Select the correct full form of the ‹th› tag used within the ‹table› tag.",
+      question: "Select the correct full form of the â€¹thâ€º tag used within the â€¹tableâ€º tag.",
       answers: {
         a: "table heading",
         b: "table header",
