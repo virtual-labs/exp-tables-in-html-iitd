@@ -82,10 +82,10 @@
     {
       question: "Each cell of the table can be represented by using __________.",
       answers: {
-        a: "‹tr›",
-        b: "‹td›",
-        c: "‹th›",
-        d: "‹thead›"
+        a: "tr",
+        b: "td",
+        c: "th",
+        d: "thead"
       },
       correctAnswer: "a"
     },
@@ -93,10 +93,10 @@
     {
       question: "For heading we can use ____________.",
       answers: {
-        a: "‹td›",
-        b: "‹tr›",
-        c: "‹thead›",
-        d: "‹th›"
+        a: "td",
+        b: "tr",
+        c: "thead",
+        d: "th"
       },
       correctAnswer: "a"
     },
@@ -115,10 +115,10 @@
 	{
       question: "Headings of table lies inside ___________.",
       answers: {
-        a: "‹thead›",
-        b: "‹tfoot›",
-        c: "‹th›",
-        d: "‹tbody›"
+        a: "thead",
+        b: "tfoot",
+        c: "th",
+        d: "tbody"
       },
       correctAnswer: "a"
     },
