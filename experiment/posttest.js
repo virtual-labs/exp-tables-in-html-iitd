@@ -120,14 +120,14 @@
     },
 	
 	{
-      question: "Q5. In HTML tables gap between two cells of same tables are known as.",
+      question: "Q5. In HTML the space between the border of a table cell and its contents is known as.",
       answers: {
         a: "Cell spacing",
         b: "Cell difference",
         c: "Cell padding",
         d: "All of the above"
       },
-      correctAnswer: "a"
+      correctAnswer: "c"
     },
   ];
 
