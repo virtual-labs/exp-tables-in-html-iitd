@@ -80,7 +80,7 @@
 
   const myQuestions = [
     {
-      question: "Each cell of the table can be represented by using __________.",
+      question: "Q1. Each cell of the table can be represented by using __________.",
       answers: {
         a: "tr",
         b: "td",
@@ -91,7 +91,7 @@
     },
 
     {
-      question: "For heading we can use ____________.",
+      question: "Q2. For heading we can use ____________.",
       answers: {
         a: "td",
         b: "tr",
@@ -102,7 +102,7 @@
     },
 
     {
-      question: "Which of the following does not specify a column width?",
+      question: "Q3. Which of the following does not specify a column width?",
       answers: {
         a: "Fixed",
         b: "Percentage",
@@ -113,7 +113,7 @@
     },
 	
 	{
-      question: "Headings of table lies inside ___________.",
+      question: "Q4. Headings of table lies inside ___________.",
       answers: {
         a: "thead",
         b: "tfoot",
@@ -124,7 +124,7 @@
     },
 	
 	{
-      question: "In HTML tables gap between two cells of same tables are known as",
+      question: "Q5. In HTML tables gap between two cells of same tables are known as.",
       answers: {
         a: "Cell spacing",
         b: "Cell difference",
