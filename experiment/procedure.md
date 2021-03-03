@@ -1,4 +1,4 @@
-##### These procedure steps will be followed on the simulator
+### These procedure steps will be followed on the simulator
 
 1. The experiment begins with previewing the output of ‹table› tag in Preview Section given at the top of the Simulator by giving the values for Rows, Columns, Align, Bgcolor, Border, Width and Height in Simulator.
 
