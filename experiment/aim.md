@@ -2,5 +2,5 @@
 
 The Learner will be able to:
 
-- demonstrate working of ‹table› tag in HTML code.
-- using table in HTML pages through proper syntax.
+- Demonstrate working of ‹table› tag in HTML code.
+- Using table in HTML pages through proper syntax.
