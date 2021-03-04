@@ -80,7 +80,7 @@
 
   const myQuestions = [
     {
-      question: "Each row of a table should have the same number of columns.",
+      question: "Q1. Each row of a table should have the same number of columns.",
       answers: {
         a: "True",
         b: "False"        
@@ -89,7 +89,7 @@
     },
 
     {
-      question: "Is we can add width and height in ‹table› tag. State True Or False.",
+      question: "Q2. Is we can add width and height in ‹table› tag. State True Or False.",
       answers: {
         a: "True",
         b: "False"
@@ -98,7 +98,7 @@
     },
 
     {
-      question: "Select the tags used within the ‹table› tag.",
+      question: "Q3. Select the tags used within the ‹table› tag.",
       answers: {
         a: "tr",
         b: "td",
@@ -109,7 +109,7 @@
     },
 	
 	{
-      question: "Select the correct full form of the ‹th› tag used within the ‹table› tag.",
+      question: "Q4. Select the correct full form of the ‹th› tag used within the ‹table› tag.",
       answers: {
         a: "table heading",
         b: "table header",
@@ -120,14 +120,14 @@
     },
 	
 	{
-      question: "In HTML tables gap between two cells of same tables are known as",
+      question: "Q5. In HTML the space between the border of a table cell and its contents is known as.",
       answers: {
         a: "Cell spacing",
         b: "Cell difference",
         c: "Cell padding",
         d: "All of the above"
       },
-      correctAnswer: "a"
+      correctAnswer: "c"
     },
   ];
 
