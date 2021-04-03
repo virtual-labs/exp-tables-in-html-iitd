@@ -8,15 +8,15 @@ The HTML ‹table› tag is used for defining a table. The table tag contains ot
 
 ‹table align="left" bgcolor="red" border="1px solid black"›
 <br>
-‹th›
-  Visit Lab
-‹/th›
-<tr>
-  <td>
-    content
-  </td>
-</tr>
-<br>‹/table›
+‹th›<br>
+  Visit Lab<br>
+‹/th›<br>
+‹tr›<br>
+  ‹td›<br>
+    content<br>
+  ‹/td›<br>
+‹/tr›<br>
+‹/table›
 
 
 ### 1.3 Attributes of ‹img› tag
