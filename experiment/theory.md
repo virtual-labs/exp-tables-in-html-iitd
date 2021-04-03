@@ -7,8 +7,16 @@ The HTML ‹table› tag is used for defining a table. The table tag contains ot
 ‹table attribute="value"›Inside Tags‹/table›
 
 ‹table align="left" bgcolor="red" border="1px solid black"›
-<br>‹th›Visit Lab‹/th›
-<br>‹/table›
+<br>
+‹th›<br>
+  Visit Lab<br>
+‹/th›<br>
+‹tr›<br>
+  ‹td›<br>
+    content<br>
+  ‹/td›<br>
+‹/tr›<br>
+‹/table›
 
 
 ### 1.3 Attributes of ‹img› tag
