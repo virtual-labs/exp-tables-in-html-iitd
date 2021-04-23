@@ -1,1 +1,46 @@
-[{"question":"Q1. Each cell of the table can be represented by using __________.","answers":{"a":"tr","b":"td","c":"th","d":"thead"},"correctAnswer":"a"},{"question":"Q2. For heading we can use ____________.","answers":{"a":"td","b":"tr","c":"thead","d":"th"},"correctAnswer":"a"},{"question":"Q3. Which of the following does not specify a column width?","answers":{"a":"Fixed","b":"Percentage","c":"Proportional","d":"Pixels"},"correctAnswer":"a"},{"question":"Q4. Headings of table lies inside ___________.","answers":{"a":"thead","b":"tfoot","c":"th","d":"tbody"},"correctAnswer":"a"},{"question":"Q5. In HTML tables gap between two cells of same tables are known as.","answers":{"a":"Cell spacing","b":"Cell difference","c":"Cell padding","d":"All of the above"},"correctAnswer":"a"}]
+[{
+	"question": "Q1. Each cell of the table can be represented by using __________.",
+	"answers": {
+		"a": "tr",
+		"b": "td",
+		"c": "th",
+		"d": "thead"
+	},
+	"correctAnswer": "a"
+}, {
+	"question": "Q2. For heading we can use ____________.",
+	"answers": {
+		"a": "td",
+		"b": "tr",
+		"c": "thead",
+		"d": "th"
+	},
+	"correctAnswer": "a"
+}, {
+	"question": "Q3. Which of the following does not specify a column width?",
+	"answers": {
+		"a": "Fixed",
+		"b": "Percentage",
+		"c": "Proportional",
+		"d": "Pixels"
+	},
+	"correctAnswer": "a"
+}, {
+	"question": "Q4. Headings of table lies inside ___________.",
+	"answers": {
+		"a": "thead",
+		"b": "tfoot",
+		"c": "th",
+		"d": "tbody"
+	},
+	"correctAnswer": "a"
+}, {
+	"question": "Q5. In HTML tables gap between two cells of same tables are known as.",
+	"answers": {
+		"a": "Cell spacing",
+		"b": "Cell difference",
+		"c": "Cell padding",
+		"d": "All of the above"
+	},
+	"correctAnswer": "a"
+}]
