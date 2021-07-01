@@ -80,16 +80,18 @@
 
   const myQuestions = [
     {
-      question: "Q1. Each row of a table should have the same number of columns.",
+      question: "Q1.Which Element is the data container of table.",
       answers: {
-        a: "True",
-        b: "False"        
+        a: "<tr>",
+        b: "<td>",
+	c: "<th>",
+	d: "None of the above"
       },
-      correctAnswer: "a"
+      correctAnswer: "b"
     },
 
     {
-      question: "Q2. Is we can add width and height in ‹table› tag. State True Or False.",
+      question: "Q2. Can we add width and height in ‹table› tag. State True Or False.",
       answers: {
         a: "True",
         b: "False"
@@ -100,12 +102,12 @@
     {
       question: "Q3. Select the tags used within the ‹table› tag.",
       answers: {
-        a: "tr",
-        b: "td",
-        c: "th",
+        a: "<tr>",
+        b: "<td>",
+        c: "<th>",
         d: "All of the above"      
       },
-      correctAnswer: "a"
+      correctAnswer: "d"
     },
 	
 	{
@@ -116,7 +118,7 @@
         c: "table height",
         d: "All of the above"      
       },
-      correctAnswer: "d"
+      correctAnswer: "b"
     },
 	
 	{
