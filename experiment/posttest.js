@@ -91,7 +91,7 @@
     },
 
     {
-      question: "Q2. Can we add width and height in ‹table› tag. State True Or False.",
+      question: "Q2. Can we add width and height in ‹table› tag? State True Or False.",
       answers: {
         a: "True",
         b: "False"
