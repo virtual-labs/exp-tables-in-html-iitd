@@ -82,10 +82,10 @@
     {
       question: "Q1. Each cell of the table can be represented by using __________.",
       answers: {
-        a: "tr",
-        b: "td",
-        c: "th",
-        d: "thead"
+        a: " &lt;tr&gt;",
+        b: "&lt;td&gt;",
+        c: "&lt;th&gt;",
+        d: "&lt;thead&gt;"
       },
       correctAnswer: "b"
     },
@@ -93,10 +93,10 @@
     {
       question: "Q2. For table heading we can use ____________.",
       answers: {
-        a: "td",
-        b: "tr",
-        c: "thead",
-        d: "th"
+        a: "&lt;td&gt;",
+        b: "&lt;tr&gt;",
+        c: "&lt;thead&gt;",
+        d: "&lt;th&gt;"
       },
       correctAnswer: "d"
     },
@@ -115,10 +115,10 @@
 	{
       question: "Q4. Which tag allows you to add a row in a table?",
       answers: {
-        a: "<tr></tr>",
-        b: "<cr></cr>",
-        c: "<table></table>",
-        d: "<tbody></tbody>"
+        a: "&lt;tr&gt;&lt;/tr&gt;",
+        b: "&lt;cr&gt;&lt;/cr&gt;",
+        c: " &lt;table&gt;&lt;/table&gt;",
+        d: " &lt;tbody&gt;&lt;/tbody&gt;"
       },
       correctAnswer: "a"
     },
