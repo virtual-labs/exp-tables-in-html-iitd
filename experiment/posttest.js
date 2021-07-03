@@ -82,9 +82,9 @@
     {
       question: "Q1.Which Element is the data container of table.",
       answers: {
-        a: "<tr>",
-        b: "<td>",
-	c: "<th>",
+        a: "&lt;tr&gt;",
+        b: "&lt;td&gt;",
+	c: "&lt;th&gt;",
 	d: "None of the above"
       },
       correctAnswer: "b"
@@ -102,9 +102,9 @@
     {
       question: "Q3. Select the tags used within the ‹table› tag.",
       answers: {
-        a: "<tr>",
-        b: "<td>",
-        c: "<th>",
+        a: "&lt;tr&gt;",
+        b: "&lt;td&gt;",
+        c: "&lt;th&gt;",
         d: "All of the above"      
       },
       correctAnswer: "d"
@@ -113,9 +113,9 @@
 	{
       question: "Q4. Select the correct full form of the ‹th› tag used within the ‹table› tag.",
       answers: {
-        a: "table heading",
-        b: "table header",
-        c: "table height",
+        a: "Table heading",
+        b: "Table header",
+        c: "Table height",
         d: "All of the above"      
       },
       correctAnswer: "b"
