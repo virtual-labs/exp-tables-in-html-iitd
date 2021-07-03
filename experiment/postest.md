@@ -1,8 +1,9 @@
 ## Post test
 <br>
-Q1.  Each row of a table should have the same number of columns.<br>
-<b>A  True<br></b>
+Q1.  Which Element is the data container of table?<br>
+<b>A  <tr><br></b>
 B   False<br>
+C 
 
 Q2.   Is we can add width and height in ‹table› tag. State True Or False.<br>
 <b>A  True<br></b>
