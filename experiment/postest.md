@@ -24,7 +24,7 @@ A  table heading<br>
 C  table height<br>
 D  All of the above<br>
 
-Q5.  In HTML tables gap between two cells of same tables are known as<br>
+Q5.  In HTML the space between the border of a table cell and its contents is known as<br>
 A  Cell spacing <br>
 B  Cell difference<br>
 <b>C  Cell padding<br></b>
