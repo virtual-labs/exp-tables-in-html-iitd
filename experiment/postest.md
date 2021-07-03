@@ -19,9 +19,9 @@ C  &lt;th&gt;<br>
 
 
 Q4. Select the correct full form of the ‹th› tag used within the &lt;table&gt; tag.<br>
-A  table heading<br>
-<b>B  table header</b><br>
-C  table height<br>
+A  Table heading<br>
+<b>B  Table header</b><br>
+C  Table height<br>
 D  All of the above<br>
 
 Q5.  In HTML the space between the border of a table cell and its contents is known as<br>
