@@ -8,10 +8,10 @@ C &lt;th&gt;<br>
 D  &lt;thead&gt;<br>
 
 Q2. For table heading we can use ____________.<br>
-A  ‹td›<br>
-B  ‹tr›<br>
-C ‹thead›<br>
-<b>D  ‹th›</b><br>
+A  &lt;td&gt;<br>
+B  &lt;tr&gt;<br>
+C &lt;thead&gt;<br>
+<b>D  &lt;th&gt;</b><br>
 
 Q3. If you want to merge two or more rows in a table which attribute you can use?<br>
 A  Rowmerge<br>
@@ -20,7 +20,7 @@ C Colmerge<br>
 D  Colspan<br>
 
 Q4. Which tag allows you to add a row in a table?<br>
-<b>A  &lt;tr&gt;&lt;/tr&gt;<br></b>
+<b>A  &lt;tr&gt;&lt;/tr&gt;</b><br>
 B  &lt;cr&gt;&lt;/cr&gt;<br>
 C  &lt;table&gt;&lt;/table&gt;<br>
 D  &lt;tbody&gt;&lt;/tbody&gt;<br>
