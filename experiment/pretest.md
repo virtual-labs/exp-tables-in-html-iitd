@@ -2,31 +2,31 @@
 #### Please attempt the following questions
 
 Q1. Each cell of the table can be represented by using __________.<br>
-A  ‹tr›<br>
-B  ‹td›<br>
-<b>C ‹th›<br></b>
-D  ‹thead›<br>
+A  &lt;tr&gt;<br>
+<b>B  &lt;td&gt;</b><br>
+C &lt;th&gt;<br>
+D  &lt;thead&gt;<br>
 
-Q2. For heading we can use ____________.<br>
-A  ‹td›<br>
-B  ‹tr›<br>
-<b>C ‹thead›<br></b>
-D  ‹th›<br>
+Q2. For table heading we can use ____________.<br>
+A  &lt;td&gt;<br>
+B  &lt;tr&gt;<br>
+C &lt;thead&gt;<br>
+<b>D  &lt;th&gt;</b><br>
 
-Q3. Which of the following does not specify a column width?<br>
-A  Fixed<br>
-B  Percentage<br>
-<b>Proportional<br></b>
-D  Pixels<br>
+Q3. If you want to merge two or more rows in a table which attribute you can use?<br>
+A  Rowmerge<br>
+<b>B  Rowspan</b><br>
+C Colmerge<br>
+D  Colspan<br>
 
-Q4. Headings of table lies inside ___________.<br>
-<b>A  ‹thead›<br></b>
-B  ‹tfoot›<br>
-C  ‹th›<br>
-D  ‹tbody›<br>
+Q4. Which tag allows you to add a row in a table?<br>
+<b>A  &lt;tr&gt;&lt;/tr&gt;</b><br>
+B  &lt;cr&gt;&lt;/cr&gt;<br>
+C  &lt;table&gt;&lt;/table&gt;<br>
+D  &lt;tbody&gt;&lt;/tbody&gt;<br>
 
 Q5.In HTML tables gap between two cells of same tables are known as<br>
-A  Cell spacing<br>
-<b>B  Cell difference<br></b>
+<b>A  Cell spacing</b><br>
+B  Cell difference<br>
 C  Cell padding<br>
 D  All of above<br>

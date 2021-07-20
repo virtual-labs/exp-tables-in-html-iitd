@@ -1,37 +1,37 @@
 [{
 	"question": "Q1. Each cell of the table can be represented by using __________.",
 	"answers": {
-		"a": "tr",
-		"b": "td",
-		"c": "th",
-		"d": "thead"
+		"a": " &lt;tr&gt;",
+		"b": "&lt;td&gt;",
+		"c": "&lt;th&gt;",
+		"d": "&lt;thead&gt;"
 	},
-	"correctAnswer": "a"
+	"correctAnswer": "b"
 }, {
-	"question": "Q2. For heading we can use ____________.",
+	"question": "Q2. For table heading we can use ____________.",
 	"answers": {
-		"a": "td",
-		"b": "tr",
-		"c": "thead",
-		"d": "th"
+		"a": "&lt;td&gt;",
+		"b": "&lt;tr&gt;",
+		"c": "&lt;thead&gt;",
+		"d": "&lt;th&gt;"
 	},
-	"correctAnswer": "a"
+	"correctAnswer": "d"
 }, {
-	"question": "Q3. Which of the following does not specify a column width?",
+	"question": "Q3. If you want to merge two or more rows in a table which attribute you can use?",
 	"answers": {
-		"a": "Fixed",
-		"b": "Percentage",
-		"c": "Proportional",
-		"d": "Pixels"
+		"a": "Rowmerge",
+		"b": "Rowspan",
+		"c": "Colmerge",
+		"d": "Colspan"
 	},
-	"correctAnswer": "a"
+	"correctAnswer": "b"
 }, {
-	"question": "Q4. Headings of table lies inside ___________.",
+	"question": "Q4. Which tag allows you to add a row in a table?",
 	"answers": {
-		"a": "thead",
-		"b": "tfoot",
-		"c": "th",
-		"d": "tbody"
+		"a": "&lt;tr&gt;&lt;/tr&gt;",
+		"b": "&lt;cr&gt;&lt;/cr&gt;",
+		"c": " &lt;table&gt;&lt;/table&gt;",
+		"d": " &lt;tbody&gt;&lt;/tbody&gt;"
 	},
 	"correctAnswer": "a"
 }, {
