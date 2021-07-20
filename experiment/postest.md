@@ -7,7 +7,7 @@ A &lt;tr&gt;<br>
 C   &lt;th&gt;<br>
 D   None of the above
 
-Q2.   Can we add width and height in &lt;table&gt; tag? State True Or False.<br>
+Q2.   We add width and height in &lt;table&gt; tag? State True Or False.<br>
 <b>A  True<br></b>
 B   False<br>
 
