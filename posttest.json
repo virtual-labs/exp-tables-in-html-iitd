@@ -1,0 +1,44 @@
+[{
+	"question": "Q1. Which Element is the data container of table.",
+	"answers": {
+		"a": "&lt;tr&gt;",
+		"b": "&lt;td&gt;",
+		"c": "&lt;th&gt;",
+		"d": "None of the above"
+	},
+	"correctAnswer": "b"
+}, {
+	"question": "Q2. We can add width and height in ‹table› tag. State True Or False.",
+	"answers": {
+		"a": "True",
+		"b": "False"
+	},
+	"correctAnswer": "a"
+}, {
+	"question": "Q3. Select the tags used within the ‹table› tag.",
+	"answers": {
+		"a": "&lt;tr&gt;",
+		"b": "&lt;td&gt;",
+		"c": "&lt;th&gt;",
+		"d": "All of the above"
+	},
+	"correctAnswer": "d"
+}, {
+	"question": "Q4. Select the correct full form of the ‹th› tag used within the ‹table› tag.",
+	"answers": {
+		"a": "Table heading",
+		"b": "Table header",
+		"c": "Table height",
+		"d": "All of the above"
+	},
+	"correctAnswer": "b"
+}, {
+	"question": "Q5. In HTML the space between the border of a table cell and its contents is known as.",
+	"answers": {
+		"a": "Cell spacing",
+		"b": "Cell difference",
+		"c": "Cell padding",
+		"d": "All of the above"
+	},
+	"correctAnswer": "c"
+}]
