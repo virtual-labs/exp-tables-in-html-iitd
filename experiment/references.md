@@ -5,5 +5,5 @@
 
 3. HTML and CSS: Design and Build Websites By- Jon Duckett.
 
-4. NPTEL: [Introduction to HTMLTable Tag](https://www.youtube.com/watch?v=KpWO98-fIBg)
+4. NPTEL: Introduction to HTMLTable Tag
 
