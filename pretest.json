@@ -1,0 +1,46 @@
+[{
+	"question": "Q1. Each cell of the table can be represented by using __________.",
+	"answers": {
+		"a": " &lt;tr&gt;",
+		"b": "&lt;td&gt;",
+		"c": "&lt;th&gt;",
+		"d": "&lt;thead&gt;"
+	},
+	"correctAnswer": "b"
+}, {
+	"question": "Q2. For table heading we can use ____________.",
+	"answers": {
+		"a": "&lt;td&gt;",
+		"b": "&lt;tr&gt;",
+		"c": "&lt;thead&gt;",
+		"d": "&lt;th&gt;"
+	},
+	"correctAnswer": "d"
+}, {
+	"question": "Q3. If you want to merge two or more rows in a table which attribute you can use?",
+	"answers": {
+		"a": "Rowmerge",
+		"b": "Rowspan",
+		"c": "Colmerge",
+		"d": "Colspan"
+	},
+	"correctAnswer": "b"
+}, {
+	"question": "Q4. Which tag allows you to add a row in a table?",
+	"answers": {
+		"a": "&lt;tr&gt;&lt;/tr&gt;",
+		"b": "&lt;cr&gt;&lt;/cr&gt;",
+		"c": " &lt;table&gt;&lt;/table&gt;",
+		"d": " &lt;tbody&gt;&lt;/tbody&gt;"
+	},
+	"correctAnswer": "a"
+}, {
+	"question": "Q5. In HTML tables gap between two cells of same tables are known as.",
+	"answers": {
+		"a": "Cell spacing",
+		"b": "Cell difference",
+		"c": "Cell padding",
+		"d": "All of the above"
+	},
+	"correctAnswer": "a"
+}]
